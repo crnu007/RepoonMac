@@ -1,7 +1,0 @@
-This is a test file created to practice git commands
-This is a commit on dev branch
-
-This is a commit on master branch
-
-This is a 2nd commit on dev branch
-
