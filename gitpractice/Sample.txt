@@ -1,1 +1,2 @@
 This is my first comment on Mac text editor
+This is my second comment on Mac chrome browser
